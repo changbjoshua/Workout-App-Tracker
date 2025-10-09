@@ -8,9 +8,13 @@ Backend: express.js, mongoDb
 Deployment: aws
 
 Login/Sign up:
+
 Personalization:
+
 Homescreen with options and an analytic dashboard:
+
 Strength training Option:
+
 Cardio option:
 
 
