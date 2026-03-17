@@ -1,22 +1,39 @@
 # Workout-App-Tracker
+
 Built a personalized workout tracker used to track gym progress during Summer 2025. Currently deploying it on AWS to strengthen cloud development skills.
 
-Frontend: Next.js (react framework), typescript, tailwindcss
+## 🛠 Tech Stack
+- Frontend: Next.js, TypeScript, TailwindCSS  
+- Backend: Express.js, MongoDB  
+- Deployment: AWS  
 
-Backend: express.js, mongoDb
+---
 
-Deployment: aws
+## 🔐 Login / Sign Up
+<img src="screenshots/login.png" width="500"/>
+<img src="screenshots/signup.png" width="500"/>
 
-Login/Sign up:
+---
 
-Personalization:
+## 🎯 Personalization
+<img src="screenshots/personalization.png" width="500"/>
 
-Homescreen with options and an analytic dashboard:
+---
 
-Strength training Option:
+## 📊 Dashboard
+<img src="screenshots/dashboard.png" width="500"/>
 
-Cardio option:
+---
 
+## 💪 Strength Training
+<img src="screenshots/strength.png" width="500"/>
+<img src="screenshots/strengthexercise.png" width="500"/>
+
+---
+
+## 🏃 Cardio Tracking
+<img src="screenshots/cardio.png" width="500"/>
+<img src="screenshots/cardiodetail.png" width="500"/>
 
 
 
